@@ -1,0 +1,541 @@
+# Translation of Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-16 06:27:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Advanced Editor Tools (previously TinyMCE Advanced) - Stable (latest release)\n"
+
+#: tadv_admin.php:975
+msgid "Instances of the Classic editor on the front end of the site"
+msgstr "サイトのフロントエンドにあるクラシックエディターのインスタンス"
+
+#: tadv_admin.php:971
+msgid "Other instances of the Classic (TinyMCE) editor in wp-admin"
+msgstr "wp-admin のクラシック (TinyMCE) エディターの他のインスタンス"
+
+#: tadv_admin.php:127
+msgid "Please note: This plugin was renamed from \"TinyMCE Advanced\" to \"Advanced Editor Tools\". The plugin functionality remains the same."
+msgstr "注: このプラグインは \"TinyMCE Advanced\" から \"Advanced Editor Tools\" に名前が変更されました。プラグインの機能は同じままです。"
+
+#: tadv_admin.php:43
+msgid "Advanced Editor Tools Settings Import"
+msgstr "Advanced Editor Tools 設定インポート"
+
+#: tinymce-advanced.php:1332
+msgid "Advanced Editor Tools (TinyMCE Advanced)"
+msgstr "Advanced Editor Tools (TinyMCE Advanced)"
+
+#: tinymce-advanced.php:1331 tadv_admin.php:117
+msgid "Advanced Editor Tools"
+msgstr "Advanced Editor Tools"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/tinymce-advanced/"
+msgstr "https://ja.wordpress.org/plugins/tinymce-advanced/"
+
+#. Plugin Name of the plugin
+msgid "Advanced Editor Tools (previously TinyMCE Advanced)"
+msgstr "Advanced Editor Tools (旧名 TinyMCE Advanced)"
+
+#: tadv_admin.php:389
+msgid "(this will replace the default text color popup in WP 5.4 and newer)"
+msgstr "(これにより、WP 5.4以降のデフォルトのテキストカラーポップアップが置き換えられます)"
+
+#: tadv_admin.php:183
+msgid "The drop-down cannot be empty and the Inline Image and Text Color items cannot be placed in the side toolbar."
+msgstr "ドロップダウンを空にすることはできません。また、インライン画像とテキストの色の項目をサイドツールバーに配置することはできません。"
+
+#. Description of the plugin
+msgid "Extends and enhances the block editor (Gutenberg) and the classic editor (TinyMCE)."
+msgstr "ブロックエディター (Gutenberg) とクラシックエディター (TinyMCE) を拡張、強化します。"
+
+#: tadv_admin.php:852
+msgid "Keep paragraph tags in the Classic block and the Classic Editor"
+msgstr "クラシックブロックとクラシックエディター内のパラグラフタグを保持"
+
+#: tinymce-advanced.php:932
+msgid "Clear formatting"
+msgstr "書式設定をクリア"
+
+#: tadv_admin.php:955
+msgid "It is important that the exported file is not edited in any way."
+msgstr "エクスポートされたファイルがどのような形であれ編集されていないことが重要です。"
+
+#: tadv_admin.php:943
+msgid "To keep the table more responsive please use percentage values when setting widths."
+msgstr "テーブルをよりレスポンシブに保つため、幅を設定する場合はパーセント値を使用するようにしてください。"
+
+#: tadv_admin.php:939
+msgid "The advanced tabs allow setting of inline CSS styles on the table, each row, and each cell. They have fields for easier setting of border, border color and background color styles."
+msgstr "アドバンスドタブではテーブルの各行、各セル上のインライン CSS の設定をすることができます。ボーダー、ボーダーカラー、バックグラウンドカラーをより簡単に設定できるフィールドもあります。"
+
+#: tadv_admin.php:937
+msgid "Show the advanced tabs in the table properties dialogs"
+msgstr "テーブル属性のダイアログに詳細タブを表示"
+
+#: tadv_admin.php:932
+msgid "When disabled, pressing the tab key will jump outside the editor area."
+msgstr "無効になっている場合、タブキーを押すとエディターエリアの外にジャンプします。"
+
+#: tadv_admin.php:930
+msgid "Jump to the next cell when pressing the tab key while editing a table"
+msgstr "テーブルを編集中にタブキーを押して次のセルに移動"
+
+#: tadv_admin.php:925
+msgid "If the grid is disabled the number of rows and columns can be typed in the Insert Table dialog."
+msgstr "グリッドが無効になっている場合、テーブルダイアログ内に行と列の数をタイプすることができます。"
+
+#: tadv_admin.php:923
+msgid "When inserting a table show a grid where the number of rows and columns can be selected by dragging with the mouse"
+msgstr "テーブルを挿入する際、マウスでドラッグして行と列の数を選択できるグリッドを表示"
+
+#: tadv_admin.php:918
+msgid "This will add a border around the table unless it is overriden by your theme."
+msgstr "テーマで上書きされなければテーブルの周りにボーダーを追加します。"
+
+#: tadv_admin.php:916
+msgid "When inserting a table set the HTML border attribute to 1"
+msgstr "テーブル挿入時の HTML 枠線属性を1に設定"
+
+#: tadv_admin.php:911
+msgid "This option does not affect inline styles on tables in existing posts. To reset table size or remove all formatting for the whole table please see the two buttons at the bottom of the Format menu."
+msgstr "このオプションは既存の投稿内のテーブル上のインラインスタイルには影響しません。テーブルのサイズをリセットしたり、全体のテーブルのフォーマットを取り除くにはフォーマットメニューの下にある2つのボタンをご覧ください。"
+
+#: tadv_admin.php:907
+msgid "Then the table, the rows and the cells can be resized by typing the size values in the advanced options tabs."
+msgstr "アドバンスドタブ内のサイズの値を入力することにより、テーブル、行、セルをリサイズすることができます。"
+
+#: tadv_admin.php:906
+msgid "Disabling this option will stop the editor from adding inline CSS styles and will produce cleaner HTML code."
+msgstr "このオプションを無効にすることにより、インラインの CSS スタイルの追加ができなくなり、より整った HTML コードを生成することができます。"
+
+#: tadv_admin.php:903
+msgid "When a row or a column is resized the inline styles are updated on all table rows and cells."
+msgstr "行や列がリサイズされるとすべてのテーブルの行とセル上のインラインスタイルも更新されます。"
+
+#: tadv_admin.php:902
+msgid "This may override some styles that are set by your theme and usually makes the table non-responsive when viewed on a small screen like a smartphone."
+msgstr "これにより、テーマでセットされているスタイルが上書きされる場合があり、通常はスマートフォンなどの小さいスクリーン上で閲覧したときにテーブルがレスポンシブ非対応になります。"
+
+#: tadv_admin.php:901
+msgid "When enabled the whole table, rows, and columns can be resized by dragging but the sizes are set with inline CSS styles."
+msgstr "テーブル全体で有効化されると、行や列はドラッグでリサイズ可能ですが、サイズはインライン CSS スタイルでセットされます。"
+
+#: tadv_admin.php:899
+msgid "Enable resizing of tables, rows, and columns by dragging with the mouse"
+msgstr "マウスのドラッグでのテーブル、行、列のサイズ変更を可能にする"
+
+#: tadv_admin.php:896
+msgid "Advanced options for tables"
+msgstr "テーブル用の高度な設定"
+
+#: tadv_admin.php:854
+msgid "Stop removing &lt;p&gt; and &lt;br&gt; tags in the Classic Editor and show them in the Text tab."
+msgstr "クラッシックエディターで &lt;p&gt; と &lt;br&gt; タグが除去されるのを停止し、テキストタブにこれらのタグを表示します。"
+
+#. translators: URL to (localised) Classic Editor plugin.
+#: tadv_admin.php:840
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://ja.wordpress.org/plugins/classic-editor/"
+
+#: tadv_admin.php:819
+msgid "Selecting this option also adds some improvements and fixes for the Classic block."
+msgstr "このオプションを選択するとクラシックブロックのいくつかの改善と修正が追加されます。"
+
+#: tadv_admin.php:818
+msgid "The default block is inserted on pressing Enter in the title, or clicking under the last block."
+msgstr "タイトルで Enter を押すか最後のブロックの下をクリックするとデフォルトのブロックが挿入されます。"
+
+#: tadv_admin.php:816
+msgid "Make the Classic Paragraph or Classic block the default block (hybrid mode)"
+msgstr "クラシック版の段落もしくはクラシックブロックをデフォルトのブロックにする (ハイブリッドモード)"
+
+#: tadv_admin.php:801
+msgid "Add Classic Paragraph block"
+msgstr "クラシック版の段落ブロックを追加"
+
+#: tadv_admin.php:591
+msgid "Toolbars for the Classic Editor"
+msgstr "クラシックエディター用ツールバー"
+
+#: tadv_admin.php:545
+msgid "Unused Buttons for the Classic Paragraph and Classic blocks toolbars"
+msgstr "クラシック版の段落とクラシックブロックのツールバー用の使用していないボタン"
+
+#: tadv_admin.php:182
+msgid "All buttons that are shown in the drop-down are auto-arranged by alphabetical order. The users are not allowed to arrange them."
+msgstr "ドロップダウン内に表示されるすべてのボタンはアルファベット順に並べられます。ユーザーはによる並べ替えはできません。"
+
+#: tadv_admin.php:181
+msgid "All other buttons are always shown in a drop-down. The users are not allowed to add any of them to the main toolbar."
+msgstr "すべての他のボタンは常にドロップダウン内に表示されます。ユーザーによるメインツールバーへのボタンの追加はできません。"
+
+#: tadv_admin.php:180
+msgid "The Align Left, Align Center, Align Right, Bold, Italic, and Link buttons cannot be moved or arranged."
+msgstr "左寄せ、中央寄せ、右寄せ、ボールド、イタリック、リンクボタンは移動したり再配置したりすることはできません。"
+
+#: tadv_admin.php:173
+msgid "Limitations for the Block Editor toolbar"
+msgstr "ブロックエディターツールバーの制限"
+
+#: tadv_admin.php:92
+msgid "Importing of settings failed. The imported file is invalid."
+msgstr "設定のインポートに失敗しました。インポートファイルが不正です。"
+
+#: tadv_admin.php:89
+msgid "Importing of settings failed. The imported file is empty."
+msgstr "設定のインポートに失敗しました。インポートファイルが空です。"
+
+#: tadv_admin.php:86
+msgid "Importing of settings failed. Please import a valid settings file."
+msgstr "設定のインポートに失敗しました。有効な設定ファイルをインポートしてください。"
+
+#: tadv_admin.php:79 tadv_admin.php:97
+msgid "Settings imported successfully."
+msgstr "設定のインポートに成功しました。"
+
+#: tadv_admin.php:58
+msgid "Import settings from string"
+msgstr "文字列から設定のインポートする"
+
+#: tadv_admin.php:49
+msgid "Import settings"
+msgstr "設定のインポート"
+
+#: tadv_admin.php:47
+msgid "The settings are imported from a previously exported settings file."
+msgstr "前回エクスポートされた設定ファイルから設定をインポートしました。"
+
+#: tinymce-advanced.php:940
+msgid "Text Background Color"
+msgstr "テキスト背景色"
+
+#: tinymce-advanced.php:938
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: tinymce-advanced.php:936
+msgid "Underline"
+msgstr "下線"
+
+#: tinymce-advanced.php:935
+msgid "Mark"
+msgstr "マーク"
+
+#: tinymce-advanced.php:934
+msgid "Subscript"
+msgstr "下付き"
+
+#: tinymce-advanced.php:933
+msgid "Superscript"
+msgstr "上付き"
+
+#: tinymce-advanced.php:902
+msgid "For use instead of the Paragraph Block. Supports transforming to and from multiple Paragraph blocks, Image, Table, List, Quote, Custom HTML, and most other blocks."
+msgstr "パラグラフブロックの代わりに利用。パラグラフブロック、画像、テーブル、リスト、引用、カスタム HTML、その他のブロック間の複数の変換をサポートしています。"
+
+#: tadv_admin.php:809
+msgid "In addition most default blocks can be transformed into classic paragraphs, and a Classic Paragraph can be converted to multiple blocks."
+msgstr "さらに、ほとんどのデフォルトブロックは「クラシックパラグラフ」に変換でき、「クラシックパラグラフ」は複数のブロックに変換できます。"
+
+#: tadv_admin.php:763
+msgid "Append all buttons to the top toolbar in the Classic Paragraph and Classic blocks."
+msgstr "「クラシックパラグラフ」や「クラシックブロック」の上部ツールバーにすべてのボタンを追加します。"
+
+#: tadv_admin.php:425
+msgid "The toolbars in the Classic Paragraph and Classic blocks are narrower and show on focus."
+msgstr "クラシック版の段落とクラシックブロックのツールバーは狭くなっており、フォーカスすると表示します。"
+
+#: tadv_admin.php:422
+msgid "Toolbars for the Classic Paragraph and Classic blocks"
+msgstr "クラシック版の段落とクラシックブロックのツールバー"
+
+#: tadv_admin.php:403
+msgid "Enable setting of selected text background color"
+msgstr "選択済み文字背景色の設定を有効化"
+
+#: tadv_admin.php:398 tadv_admin.php:411
+msgid "No"
+msgstr "いいえ"
+
+#: tadv_admin.php:394 tadv_admin.php:407
+msgid "Yes"
+msgstr "はい"
+
+#: tadv_admin.php:388
+msgid "Enable setting of selected text color"
+msgstr "選択済み文字色の設定を有効化"
+
+#: tinymce-advanced.php:941 tadv_admin.php:380
+msgid "Selected text background color"
+msgstr "選択済み文字背景色"
+
+#: tinymce-advanced.php:939 tadv_admin.php:376
+msgid "Selected text color"
+msgstr "選択済み文字色"
+
+#: tadv_admin.php:372
+msgid "Text color"
+msgstr "テキスト色"
+
+#: tadv_admin.php:347
+msgid "Unused buttons for the blocks toolbars"
+msgstr "ブロックツールバーで不使用のボタン"
+
+#: tinymce-advanced.php:931 tadv_admin.php:318
+msgid "Formatting"
+msgstr "整形"
+
+#: tadv_admin.php:314
+msgid "(shown in the sidebar)"
+msgstr "(サイドバー内に表示)"
+
+#: tadv_admin.php:313
+msgid "Alternative side toolbar"
+msgstr "代替サイドツールバー"
+
+#: tadv_admin.php:169
+msgid "Main toolbar"
+msgstr "メインツールバー"
+
+#: tadv_admin.php:159
+msgid "Toolbars for the Block Editor"
+msgstr "ブロックエディター用のツールバー"
+
+#: tadv_admin.php:154
+msgid "Classic Editor (TinyMCE)"
+msgstr "旧エディター (TinyMCE)"
+
+#: tadv_admin.php:149
+msgid "Block Editor (Gutenberg)"
+msgstr "ブロックエディター (TinyMCE)"
+
+#: tadv_admin.php:810
+msgid "It can be used everywhere instead of the Paragraph block including in columns, when creating reusable blocks, etc."
+msgstr "再利用可能なブロックを作成するときなど、パラグラフブロックの代わりに、カラム内を含むどこででも使用できます。"
+
+#: tadv_admin.php:805
+msgid "Also, like the Classic block, most existing TinyMCE plugins and add-ons will continue to work."
+msgstr "また、クラシックブロックと同様に、既存のほとんどの TinyMCE プラグインとアドオンは引き続き動作します。"
+
+#: tadv_admin.php:804
+msgid "You can add multiple paragraphs, tables, galleries, embed video, set fonts and colors, and generally use everything that is available in the Classic Editor."
+msgstr "複数の段落、表、ギャラリーを追加したり、動画を埋め込んだり、フォントや色を設定したり、通常クラシックエディターで使用可能なすべての機能を使用できます。"
+
+#: tadv_admin.php:803
+msgid "The Classic Paragraph block includes the familiar TinyMCE editor and is an extended and enhanced Classic block."
+msgstr "「クラシックパラグラフ」ブロックには使い慣れた TinyMCE エディターが含まれます。これはクラシックブロックの機能拡張版です。"
+
+#: tinymce-advanced.php:900
+msgid "Classic Paragraph"
+msgstr "クラシック版の段落"
+
+#: tadv_admin.php:886
+msgid "Disabled:"
+msgstr "無効: "
+
+#: tadv_admin.php:838
+msgid "If you prefer to use both editors side by side, do not enable this option. It is better to install the %1$sClassic Editor plugin%2$s."
+msgstr "両方のエディターを並行して使用したい場合はこの設定を有効化しないでください。代わりに %1$sClassic Editor プラグイン%2$sをインストールすることをおすすめします。"
+
+#: tadv_admin.php:833
+msgid "It will allow you to use other plugins that enhance that editor, add old-style Meta Boxes, or in some way depend on the previous Edit Post screen."
+msgstr "これにより、そのエディターを強化する他のプラグインを使用したり、古いスタイルのメタボックスを追加したり、以前の「投稿を編集」画面に頼ったりできます。"
+
+#: tadv_admin.php:832
+msgid "Selecting this option will restore the previous (&#8220;classic&#8221;) editor and the previous Edit Post screen."
+msgstr "このオプションを選択すると、以前の (クラシック) エディターと「投稿の編集」画面が復元されます。"
+
+#: tadv_admin.php:830
+msgid "Replace the Block Editor with the Classic Editor"
+msgstr "ブロックエディターをクラシックエディターに置き換える"
+
+#: tadv_admin.php:806
+msgid "This makes the Block Editor more familiar, easier to use, easier to get used to, and more compatible with your existing workflow."
+msgstr "これにより、ブロックエディターがより使いやすくなり、既存のワークフローとの互換性が高まります。"
+
+#: tadv_admin.php:764
+msgid "This affects buttons that are added by other plugins. These buttons will be appended to the top toolbar row instead of forming second, third, and forth rows."
+msgstr "これは他のプラグインによって追加されたボタンに影響します。ボタンは2、3、4行ではなく、ツールバーの1行目に追加されます。"
+
+#: tadv_admin.php:432
+msgid "Enable the editor menu (recommended)."
+msgstr "エディターメニューを有効化する (推奨)。"
+
+#: tadv_admin.php:427
+msgid "The buttons will wrap around depending on the width of the toolbar."
+msgstr "ボタンはツールバーの幅に合わせて折り返されます。"
+
+#: tadv_admin.php:426
+msgid "For best results enable the menu and add only essential buttons."
+msgstr "メニューを有効にし、重要なボタンのみ追加するのがおすすめです。"
+
+#: tadv_admin.php:542 tadv_admin.php:710
+msgid "Drop buttons in the toolbars, or drag the buttons to rearrange them."
+msgstr "ツールバーにボタンをドロップするか、ドラッグしてボタンを並べ替えます。"
+
+#: tadv_admin.php:790
+msgid "Replace the size setting available for fonts with: %s."
+msgstr "フォントで使用可能なサイズ設定を置き換えます: %s。"
+
+#: tadv_admin.php:887
+msgid "A stylesheet file named editor-style.css was not added by your theme."
+msgstr "editor-style.css スタイルシートがテーマに追加されませんでした。"
+
+#: tinymce-advanced.php:1344
+msgid "Settings"
+msgstr "設定"
+
+#: tadv_admin.php:967
+msgid "The Classic Editor (Add New and Edit posts and pages)"
+msgstr "旧エディター (投稿と固定ページの新規追加と編集)"
+
+#: tadv_admin.php:964
+msgid "Enable the editor enhancements for:"
+msgstr "次のエディター拡張の有効化:"
+
+#: tadv_admin.php:952
+msgid "Settings import and export"
+msgstr "設定のインポートとエクスポート"
+
+#: tadv_admin.php:877
+msgid "Create CSS classes menu"
+msgstr "CSS クラスメニューの作成"
+
+#: tadv_admin.php:789
+msgid "Font sizes"
+msgstr "フォントサイズ"
+
+#: tadv_admin.php:784
+msgid "Open the TinyMCE link dialog when using the link button on the toolbar or the link menu item."
+msgstr "ツールバーのリンクボタンまたはリンクメニュー項目のクリックで TinyMCE リンクダイアログを開く"
+
+#: tadv_admin.php:783
+msgid "Alternative link dialog"
+msgstr "代替リンクダイアログ"
+
+#: tadv_admin.php:778
+msgid "Replace the browser context (right-click) menu."
+msgstr "ブラウザーのコンテキストメニュー (右クリックメニュー) を置換"
+
+#: tadv_admin.php:771
+msgid "Enable more list options: upper or lower case letters for ordered lists, disk or square for unordered lists, etc."
+msgstr "追加リストオプションの有効化: 順序付きリストの先頭記号に英大文字や小文字、順序なしリストの先頭記号に黒丸や四角を使用するなど。"
+
+#: tadv_admin.php:759
+msgid "Options"
+msgstr "オプション"
+
+#: tinymce-advanced.php:386
+msgid "Please upgrade your WordPress installation or download an <a href=\"%s\">older version of the plugin</a>."
+msgstr "WordPress を新しいバージョンにアップグレードするか、<a href=\"%s\">古いバージョンのプラグイン</a>をダウンロードしてください。"
+
+#: tinymce-advanced.php:378
+msgid "Advanced Editor Tools requires WordPress version %1$s or newer. It appears that you are running %2$s. This can make the editor unstable."
+msgstr "Advanced Editor Tools には WordPress バージョン%1$s以降が必要です。現在、%2$sを実行しているようです。これにより、エディターが不安定になる可能性があります。"
+
+#: tadv_admin.php:994
+msgid "The [Toolbar toggle] button shows or hides the second, third, and forth button rows. It will only work when it is in the first row and there are buttons in the second row."
+msgstr "「ツールバー切り替え」ボタンで2番目から4番目までのボタン列の表示切り替えを行います。 このボタンは1番目の列に配置され、なおかつ2番目の列にボタンが存在するときのみ機能します。"
+
+#: tadv_admin.php:988
+msgid "Restore Default Settings"
+msgstr "デフォルトの設定を復元"
+
+#: tadv_admin.php:960
+msgid "Import Settings"
+msgstr "設定のインポート"
+
+#: tadv_admin.php:959
+msgid "Export Settings"
+msgstr "設定のエクスポート"
+
+#: tadv_admin.php:950
+msgid "Administration"
+msgstr "管理"
+
+#: tadv_admin.php:857
+msgid "Line breaks in the Text tab in the Classic Editor would still affect the output, in particular do not use empty lines, line breaks inside HTML tags or multiple &lt;br&gt; tags."
+msgstr "テキストエディター内での改行は出力に含まれます。このため空の行や HTML タグ内の改行、複数の &lt;br&gt; タグは使用しないでください。"
+
+#: tadv_admin.php:856
+msgid "However it may behave unexpectedly in rare cases, so test it thoroughly before enabling it permanently."
+msgstr "しかし、まれに予想できない振る舞いをするため、常用前に充分テストを行ってください。"
+
+#: tadv_admin.php:855
+msgid "This will make it possible to use more advanced coding in the Text tab without the back-end filtering affecting it much."
+msgstr "テキストエディターの自動補完を停止し、より高度なコーディングが可能です。"
+
+#: tadv_admin.php:879
+msgid "Load the CSS classes used in editor-style.css and replace the Formats menu."
+msgstr "editor-style.css で使用される CSS クラスを読み込み、フォーマットメニューを置き換えます。"
+
+#: tadv_admin.php:798
+msgid "Advanced Options"
+msgstr "上級者向け設定"
+
+#: tadv_admin.php:777
+msgid "Context Menu"
+msgstr "コンテキストメニュー"
+
+#: tadv_admin.php:769
+msgid "List Style Options"
+msgstr "リストスタイルオプション"
+
+#: tadv_admin.php:713
+msgid "Unused Buttons"
+msgstr "使用しないボタン"
+
+#: tadv_admin.php:596
+msgid "Enable the editor menu."
+msgstr "エディターメニューを有効化する。"
+
+#: tadv_admin.php:144 tadv_admin.php:989
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: tadv_admin.php:132
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: tadv_admin.php:106
+msgid "ERROR: All toolbars are empty. Default settings loaded."
+msgstr "エラー: すべてのツールバーが空です。 既定の設定が読み込まれました。"
+
+#: tadv_admin.php:76
+msgid "Importing of settings failed."
+msgstr "設定のインポートに失敗しました。"
+
+#: tadv_admin.php:57
+msgid "Verify"
+msgstr "検証"
+
+#: tadv_admin.php:54
+msgid "Alternatively the settings can be imported from a JSON encoded string. Please paste the exported string in the text area below."
+msgstr "設定を JSON エンコード文字列からインポートしました。エクスポートした文字列を以下のテキスト領域に貼り付けてください。"
+
+#: tadv_admin.php:63
+msgid "Back to Editor Settings"
+msgstr "エディター設定に戻る"
+
+#: tadv_admin.php:954
+msgid "The settings are exported as a JSON encoded file."
+msgstr "設定を JSON エンコード文字列としてエクスポートしました。"
+
+#: tadv_admin.php:36
+msgid "Default settings restored."
+msgstr "既定の設定が復元されました。"

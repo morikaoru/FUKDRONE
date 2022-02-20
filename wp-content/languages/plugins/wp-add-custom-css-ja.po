@@ -1,0 +1,116 @@
+# Translation of Plugins - WP Add Custom CSS - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Add Custom CSS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-12 06:18:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Add Custom CSS - Stable (latest release)\n"
+
+#: wordpress-add-custom-css.php:143
+msgid "paypal.me (it has lower fees):"
+msgstr "paypal.me (手数料が少し安いです）"
+
+#: wordpress-add-custom-css.php:143
+msgid "If you have a PayPal account use"
+msgstr "PayPal アカウントをお持ちならご利用ください。"
+
+#: wordpress-add-custom-css.php:146
+msgid "If you don't have a PayPal account use this PayPal donate button:"
+msgstr "PayPal アカウントをお持ちでないときは、こちらのPayPalの 「Donate」ボタンをご利用ください。"
+
+#: wordpress-add-custom-css.php:141
+msgid "Donations"
+msgstr "寄付"
+
+#: wordpress-add-custom-css.php:142
+msgid "Help me mantaining WP Add Custom CSS by making a donation:"
+msgstr "WP Add Custom CSS を維持するために寄付をしてご支援ください。"
+
+#: wordpress-add-custom-css.php:156
+msgid "thank you!"
+msgstr "ありがとうございます !"
+
+#: wordpress-add-custom-css.php:208
+msgid "Light"
+msgstr "ライトカラー"
+
+#: wordpress-add-custom-css.php:194
+msgid "Enable advanced css editor, including line numbers and code coloring."
+msgstr "行番号とコードカラーリングのあるアドバンスド CSS エディターを有効化する"
+
+#: wordpress-add-custom-css.php:259
+msgid "Enable"
+msgstr "有効化"
+
+#: wordpress-add-custom-css.php:208
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: wordpress-add-custom-css.php:266
+msgid "Advanced editor layout"
+msgstr "アドバンスドエディターレイアウト"
+
+#: wordpress-add-custom-css.php:253
+msgid "Advanced editor"
+msgstr "アドバンスドエディター"
+
+#: wordpress-add-custom-css.php:156
+msgid "5 star review,"
+msgstr "5つ星レビュー、"
+
+#: wordpress-add-custom-css.php:240
+msgid "Post types"
+msgstr "投稿タイプ"
+
+#: wordpress-add-custom-css.php:246
+msgid "Available post types"
+msgstr "利用可能な投稿タイプ"
+
+#: wordpress-add-custom-css.php:178
+msgid "Enable page specific CSS for the post types below."
+msgstr "次の投稿タイプの投稿に固有の CSS を有効化する。"
+
+#: wordpress-add-custom-css.php:139
+msgid "Save"
+msgstr "保存"
+
+#: wordpress-add-custom-css.php:154
+msgid "Credits"
+msgstr "クレジット"
+
+#: wordpress-add-custom-css.php:331
+msgid "Settings"
+msgstr "設定"
+
+#: wordpress-add-custom-css.php:91
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: wordpress-add-custom-css.php:227
+msgid "Main CSS"
+msgstr "メイン CSS"
+
+#: wordpress-add-custom-css.php:233
+msgid "CSS rules"
+msgstr "CSS ルール"
+
+#: wordpress-add-custom-css.php:119
+msgid "Add custom CSS rules for this %s"
+msgstr "この %s にカスタム CSS を追加する"
+
+#: wordpress-add-custom-css.php:128 wordpress-add-custom-css.php:135
+msgid "Wordpress Add Custom CSS"
+msgstr "WordPress Add Custom CSS"
+
+#: wordpress-add-custom-css.php:164
+msgid "Write here the CSS rules you want to apply to the whole website."
+msgstr "ウェブサイト全体に適用したい CSS ルールをここに記述してください。"
+
+#: wordpress-add-custom-css.php:128
+msgid "Add Custom CSS"
+msgstr "Add Custom CSS"

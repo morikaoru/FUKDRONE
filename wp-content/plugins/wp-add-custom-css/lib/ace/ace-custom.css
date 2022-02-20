@@ -1,0 +1,18 @@
+.wpacc_editor_container {
+	position: relative;
+}
+.custom_css_ace { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.ui-resizable-s {
+	background-color: #e6e6e6;
+	background-image: url(../../images/resize-handle.png);
+	background-image: url(../../images/resize-handle.svg), none;
+	background-size: 22px 9px;
+	background-repeat: no-repeat;
+	background-position: center;
+}

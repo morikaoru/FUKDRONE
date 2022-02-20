@@ -1,0 +1,25 @@
+# Translation of Plugins - WP Multibyte Patch - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Multibyte Patch - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-14 04:29:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Multibyte Patch - Stable (latest release)\n"
+
+#: wp-multibyte-patch.php:525
+msgid "Sorry, WP Multibyte Patch requires <a href=\"http://www.php.net/manual/en/mbstring.installation.php\" target=\"_blank\">mbstring</a> functions."
+msgstr "お使いの WP Multibyte Patch を有効化するには PHP の <a href=\"http://www.php.net/manual/ja/mbstring.installation.php\" target=\"_blank\">mbstring</a> 関数が必要です。"
+
+#: wp-multibyte-patch.php:521
+msgid "Sorry, WP Multibyte Patch requires WordPress %s or later."
+msgstr "お使いの WP Multibyte Patch を有効化するには WordPress %s 以上が必要です。"
+
+#: ext/ja/class.php:201 wp-multibyte-patch.php:404
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
